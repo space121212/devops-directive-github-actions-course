@@ -9,6 +9,5 @@ jobs:
   say-hello-inline-bash:
     runs-on: ubuntu-24.04
     steps:
-      - run: echo "My name is swarup"
-              pwd
-              ls
+      - run: echo "My name is swarup Dhayalkar"
+              
