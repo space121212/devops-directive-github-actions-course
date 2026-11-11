@@ -12,4 +12,3 @@ jobs:
       - run: echo "My name is swarup"
               pwd
               ls
-              whoami
