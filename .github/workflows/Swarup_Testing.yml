@@ -1,0 +1,17 @@
+name: Swarup Testing
+
+on:
+  push:
+    branches:
+      - main
+
+
+jobs:
+  First_Swarup_Job_ID:
+     runs-on: ubuntu-24.04
+     steps:
+       - run:  echo "Your code is push successfully."
+
+
+
+
